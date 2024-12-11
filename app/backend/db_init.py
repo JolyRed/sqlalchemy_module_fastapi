@@ -1,4 +1,4 @@
-from app.models.db import Base, engine
+from app.backend.db import Base, engine
 from app.models.user import User
 from app.models.task import Task
 
